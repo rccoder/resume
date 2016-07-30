@@ -3,8 +3,11 @@
 ## 基本信息
 
 **姓名：**  杨尚斌
+
 **学校：** 哈尔滨工业大学
+
 **联系方式：** rccoder@foxmail.com / 15754604572
+
 **GitHub：** https://github.com/rccoder
 
 ## 应聘岗位
@@ -20,7 +23,7 @@
  * 熟悉 Python、Node，能独立开发小型前后台应用
  * 了解 MySql、MongoDB，能结合实际运用软件工程相关的思想
  * 了解初步设计模式，能在项目中初步使用
- * 了解 Linux，能正常在 Linux 下面进行开发
+ * 了解 Linux，能正常在 Linux 下面进行正常性质的开发，使用过 Nginx
 
 ### 其他技能
 
